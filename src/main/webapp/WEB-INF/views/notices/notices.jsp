@@ -19,12 +19,12 @@
 </section>
 <button class="dhx_demo-button" onclick="addNewItem()">
     <span class="dhx_demo-button__icon dxi dxi-plus"></span>
-    <span class="dhx_demo-button__text">Add new user</span>
+    <span class="dhx_demo-button__text">Add new notice</span>
 </button>
 <div id="notice-form" style="display: none;">
     <form id="add-notice-form">
         <label for="notice-input">Notice</label>
-        <input type="text" id="notice-input" name="username"><br>
+        <input type="text" id="notice-input" name="notice"><br>
         <input type="submit" value="Save">
     </form>
 </div>

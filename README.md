@@ -21,6 +21,8 @@ ___
 users grid -> [users grid](img/users.jpg)<br />
 edit user -> [edit form](img/editUser.jpg)
 ___
+_For add new notice or User press ADD NEW NOTICE/USER and fill all html fields, and press save_
+___
 ### 🛠Underhood endpoints🛠
 + GET: /notices/like/{id} - user - **for like notice** <br />
 + GET: /notices/unlike/{id} - user - **for unlike notice** <br />
